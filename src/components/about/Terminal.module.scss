@@ -17,12 +17,15 @@ i {
 }
 
 .terminal {
-  p, li {
+  p,
+  li {
     margin: 1rem 0;
+    line-height: 1.5;
     color: $white;
   }
 
-  a, a:visited {
+  a,
+  a:visited {
     animation: changeColors 3s infinite;
     font-weight: bold;
   }
