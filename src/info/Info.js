@@ -29,7 +29,7 @@ export const info = {
     },
     {
       emoji: "💼",
-      text: "Développeur Full Stack en recherche de stage",
+      text: "Développeur Full Stack JS en recherche de stage",
     },
     {
       emoji: "📧",
